@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Plant Cell & Stomatal Observation
 
 A quantitative botanical microscopy study analyzing stomatal distribution, stomatal density, and stomatal index across monocot and dicot leaf epidermis.
@@ -91,3 +92,6 @@ python analyze_stomata.py
 ## License
 
 This project is open source and available under the MIT License.
+=======
+# plant-cell-stomatal-observation
+>>>>>>> 5760004ea927f33a019dfa3fcceef8542dcecfd0
