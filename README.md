@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Plant Cell & Stomatal Observation
 
 A quantitative botanical microscopy study analyzing stomatal distribution, stomatal density, and stomatal index across monocot and dicot leaf epidermis.
@@ -89,9 +89,6 @@ python analyze_stomata.py
 * **Hypostomatic vs Amphistomatic Adaptations**: Broad leaves exposed to direct sunlight (such as *Ficus elastica*) restrict stomata strictly to the shaded lower epidermis, reducing excessive transpirational water loss. In contrast, fast-growing herbaceous crops like spinach (*Spinacia oleracea*) exhibit stomata on both surfaces to maximize gas exchange.
 * **Consistency of Stomatal Index**: While absolute stomatal counts vary with cell expansion and light intensity, the stomatal index remains constant within a species, highlighting its utility in taxonomic classification and paleobotanical studies.
 
-## License
 
-This project is open source and available under the MIT License.
 =======
-# plant-cell-stomatal-observation
->>>>>>> 5760004ea927f33a019dfa3fcceef8542dcecfd0
+
